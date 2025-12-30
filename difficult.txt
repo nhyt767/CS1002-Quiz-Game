@@ -1,0 +1,90 @@
+[12:46 pm, 30/12/2025] Noor ??: What is the powerhouse of the cell?
+Nucleus
+Mitochondria
+Ribosome
+Chloroplast
+B
+Which element has the atomic number 6?
+Carbon
+Oxygen
+Nitrogen
+Hydrogen
+A
+What is the acceleration due to gravity on Earth?
+9.8 m/s^2
+10 m/s^2
+8 m/s^2
+12 m/s^2
+A
+Which gas is most abundant in the Earth's atmosphere?
+Oxygen
+Carbon Dioxide
+Nitrogen
+Hydrogen
+C
+Which particle has a negative charge?
+Proton
+Neutron
+Electron
+Photon
+C
+[12:46 pm, 30/12/2025] Noor ??: Which of these is a sorting algorithm?
+Bubble Sort
+Binary Search
+Linked List
+Stack
+A
+Which data structure uses LIFO principle?
+Queue
+Stack
+Array
+Graph
+B
+What does STL stand for in C++?
+Standard Template Library
+System Type Library
+Structured Text Language
+Simple Template Library
+A
+Which complexity represents linear search?
+O(n)
+O(log n)
+O(n^2)
+O(1)
+A
+Which operator is used to access members of a structure in C++?
+.
+->
+::
+*
+B
+[12:47 pm, 30/12/2025] Noor ??: Which country hosted the 2016 Summer Olympics?
+China
+Brazil
+UK
+USA
+B
+Which player has won the most Grand Slam tennis titles (male)?
+Roger Federer
+Rafael Nadal
+Novak Djokovic
+Pete Sampras
+A
+In Formula 1, how many points for a race win?
+25
+18
+10
+8
+A
+Which country won the ICC Cricket World Cup 2019?
+England
+New Zealand
+India
+Australia
+A
+Which sport is associated with the term 'Decathlon'?
+Track and Field
+Swimming
+Gymnastics
+Weightlifting
+A

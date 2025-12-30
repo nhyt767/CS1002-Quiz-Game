@@ -1,0 +1,90 @@
+[12:02 pm, 30/12/2025] Noor ??: Water boils at what temperature in Celsius?
+90
+80
+100
+120
+C
+The human body has how many lungs?
+1
+2
+3
+4
+B
+The planet closest to the Sun is?
+Earth
+Venus
+Mercury
+Mars
+C
+Which gas do plants use for photosynthesis?
+Oxygen
+Carbon Dioxide
+Nitrogen
+Hydrogen
+B
+What is H2O commonly called?
+Salt
+Water
+Ammonia
+Oxygen
+B
+[12:05 pm, 30/12/2025] Noor ??: Which device is used to input data into a computer?
+Monitor
+Keyboard
+Printer
+Speaker
+B
+Which of these is a programming language?
+HTML
+Python
+Windows
+Excel
+B
+CPU stands for?
+Central Processing Unit
+Central Program Unit
+Computer Processing Unit
+Control Processing Unit
+A
+Which symbol ends a C++ statement?
+;
+.
+,
+:
+A
+Which is used to display output in C++?
+cin
+cout
+clog
+cerr
+B
+[12:08 pm, 30/12/2025] Noor ??: How many players are there in a football team on the field?
+9
+10
+11
+12
+C
+Which sport uses a shuttlecock?
+Tennis
+Badminton
+Squash
+Table Tennis
+B
+In cricket, how many runs make a boundary?
+2
+4
+6
+8
+B
+Which sport is played at Wimbledon?
+Football
+Tennis
+Hockey
+Basketball
+B
+How long is a standard Olympic swimming pool?
+50 meters
+25 meters
+100 meters
+200 meters
+A

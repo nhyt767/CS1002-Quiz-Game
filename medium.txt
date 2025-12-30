@@ -1,0 +1,90 @@
+[12:44 pm, 30/12/2025] Noor ??: The chemical symbol for gold is?
+Au
+Ag
+Gd
+Go
+A
+Which blood cells help fight infections?
+Red Blood Cells
+White Blood Cells
+Platelets
+Plasma
+B
+The force that keeps planets in orbit is?
+Magnetism
+Gravity
+Friction
+Electrostatic
+B
+Which planet is known as the Red Planet?
+Mars
+Venus
+Jupiter
+Saturn
+A
+Which vitamin is produced when the skin is exposed to sunlight?
+Vitamin A
+Vitamin B
+Vitamin C
+Vitamin D
+D
+[12:44 pm, 30/12/2025] Noor ??: Which loop executes at least once in C++?
+for
+while
+do-while
+if
+C
+Which operator is used for logical AND?
+&
+||
+&&
+!
+C
+What is the correct extension for C++ files?
+.cpp
+.c
+.java
+.py
+A
+Which of the following is a conditional statement in C++?
+if
+for
+while
+cin
+A
+Which header file is needed for file handling in C++?
+<fstream>
+<iostream>
+<string>
+<cmath>
+A
+[12:45 pm, 30/12/2025] Noor ??: Which country won the FIFA World Cup 2018?
+Germany
+France
+Brazil
+Argentina
+B
+In which sport is the term 'love' used?
+Badminton
+Tennis
+Football
+Squash
+B
+Which athlete is known as the "Fastest Man in the World"?
+Usain Bolt
+Carl Lewis
+Michael Phelps
+Tyson Gay
+A
+How many players in a basketball team?
+5
+6
+7
+8
+A
+The Olympic Games are held every?
+2 years
+3 years
+4 years
+5 years
+C
